@@ -1,0 +1,9 @@
+-------------------------------------------Total Bill--------------------------------------------------------------
+Returned by : 104 
+Contact number: 32434 
+Rent Date: 2024-05-22
+Return Date: 2024-08-22
+Duration of Rent: 2 months
+Cost per Month: Rs. 70000
+Total Rental Cost: Rs. 357000.0
+
